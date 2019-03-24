@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1427 DEGREES</title>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+    <style>
+        table {
+            padding: 0px;
+        }
+
+        button {
+            width: 150px;
+            height: 50px;
+            background: rgb(255, 246, 236);
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20pt;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            margin: 25px 20px;
+        }
+
+        .button {
+            border-radius: 10%;
+        }
+
+        button:hover {
+            background-color: rgb(252, 235, 216)
+        }
+
+        .title {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 40pt;
+            color: black;
+            margin: 70px 0px 35px 10px;
+            text-align: center;
+        }
+
+        .sub {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 30px;
+            margin: 30px 100px 20px 0px;
+            text-align: center;
+        }
+
+        .paragraph {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20px;
+            text-align: center;
+            margin: 35px 0px 0px 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">INDRA NOOYI</div>
+    <table style="width:45%" align="center">
+
+        <tr>
+            <th><img src="https://i.pinimg.com/originals/e5/f3/ef/e5f3ef7cf344cf4a6cb95cef32d22829.jpg" alt="Ginni Rometty" width="500" height="600" style="margin: 0px 30px 0px 30px;"></th>
+            <td class="sub" style="margin: 0px 0px 0px 30px;"><i>“Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.”</i></td>
+        </tr>
+    </table>
+    <p class="paragraph">
+        Indra Nooyi was born in 1955 in India. She attended school in India and started her career in India prior to attending <br>
+        Yale School of Management. From there, she joined PepsiCo in 1994 and was named CEO in 2004; in later years, she appeared <br>
+        on Wall Street Journal's top 50 women to watch in 2007 and 2008. She was ranked #2 in the Fortune 500 in 2015.
+    </p>
+    <p align="center"><button type="button" class="button">back</button></p>
+
+</body>
+</html> 
