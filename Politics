@@ -47,7 +47,7 @@ button:hover {background-color: rgb(252, 235, 216)}
 </head>
 <body>
 <div class="title">POLITICIANS</div>
-<div class="sub">WHO <b>CHANGED</b> THE GAME</div>
+<div class="sub">WHO <b>CHANGED</b> THE GAME?</div>
 <table style="width:45%" align="center">
         <tr>   
           <th><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Shirley_Chisholm.jpg" alt="Shirley Chisholm" width="160" height="200" style="margin: 0px 30px 15px 30px;"></th>
