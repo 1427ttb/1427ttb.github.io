@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1427</title>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+<style>
+    table {
+  padding: 0px;
+}
+
+button {
+width:150px;
+    height:50px;
+    background:rgb(255, 246, 236);
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:20pt;
+    text-align: center;
+ 	cursor: pointer;
+  	outline: none;
+      
+  margin: 25px 20px;
+    }
+    
+    .button {border-radius: 10%;}
+button:hover {background-color: rgb(252, 235, 216)}
+.title{
+    font-family: 'PT Sans Narrow', sans-serif;
+  font-size:40pt;
+  color: black;
+  margin: 70px 0px 35px 10px;
+  text-align:center;
+
+  }
+.sub{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:30px;
+    margin: 30px 100px 20px 0px;
+    text-align:center;
+}
+.paragraph{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 35px 0px 0px 0px;
+}
+</style>
+</head>
+<body>
+<div class="title">RUTH BADER GINSBERG</div>
+<table style="width:45%" align="center">
+        
+        <tr>   
+          <th><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg" alt="Ruth Bader Ginsberg" width="160" height="200" style="margin: 0px 30px 0px 30px;"></th>
+          <td class="sub" style="margin: 0px 0px 0px 30px;"><i>“I may be the first woman member of Congress,” she observed upon her election in 1916. “But I won’t be the last.”</i></td>              
+        </tr>
+      </table>
+<p class="paragraph">Born in Montana, Jeannette Rankin was the first woman to hold office in Congress. Her political career began when<br>
+                she joined a woman’s suffrage group at the University of Washington; from there, she became a professional lobbyist for the<br>
+                     National American Woman Suffrage Association. Her efforts in speaking at and organizing movements helped Montana women<br>
+                     gain the right to vote in 1914. She was later elected to Congress; during her career, she was the only Congress member to<br>
+                     vote against participation in both world wars. Her fearlessness in speaking up and taking controversial positions on several<br>
+                     burning issues were key factors in her leadership for women’s suffragist movement and her lifelong work as a pacifist.</p>
+<p  align="center"><button type="button" class="button">back</button></p>
+
+</body>
+</html> 
