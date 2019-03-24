@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1427 DEGREES</title>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+<style>
+    table {
+  padding: 0px;
+}
+
+button {
+width:150px;
+    height:50px;
+    background:rgb(255, 246, 236);
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:20pt;
+    text-align: center;
+ 	cursor: pointer;
+  	outline: none;
+      
+  margin: 25px 20px;
+    }
+    
+    .button {border-radius: 10%;}
+button:hover {background-color: rgb(252, 235, 216)}
+.title{
+    font-family: 'PT Sans Narrow', sans-serif;
+  font-size:40pt;
+  color: black;
+  margin: 70px 0px 15px 10px;
+  text-align:center;
+
+  }
+.sub{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:30px;
+    margin: 0px 0px 35px 0px;
+    text-align:center;
+}
+.paragraph{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 35px 0px 0px 0px;
+}
+</style>
+</head>
+<body>
+<div class="title">POLITICIANS</div>
+<div class="sub">WHO <b>CHANGED</b> THE GAME</div>
+<table style="width:45%" align="center">
+        <tr>   
+          <th><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Shirley_Chisholm.jpg" alt="Shirley Chisholm" width="160" height="200" style="margin: 0px 30px 15px 30px;"></th>
+          <th><img src="https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/4/95/49544f28-bfe1-54fb-8e45-3c5d4fc9d625/5b27c9ef0c630.image.jpg
+            " alt="Jeannette Rankin" width="160" height="200" style="margin: 0px 30px 15px 30px;"></th>
+          <th><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg" alt="Ruth Bader Ginsberg" width="160" height="200" style="margin: 0px 30px 15px 30px;"></th>
+        </tr>
+
+        <tr>   
+            <td  style="font-family: 'PT Sans Narrow', sans-serif; font-size: 25px; text-align: center; margin: 100px 0px 0px 100px;">Shirley Chisholm</td>
+            <td  style="font-family: 'PT Sans Narrow', sans-serif; font-size: 25px; text-align: center; margin: 100px 0px 0px 100px;">Jeannette Rankin</td>
+            <td  style="font-family: 'PT Sans Narrow', sans-serif; font-size: 25px; text-align: center; margin: 100px 0px 0px 100px;">Ruth Bader Ginsberg</td>              
+      
+          </tr>
+      </table>
+<p  align="center"><button type="button" class="button">home</button></p>
+
+</body>
+</html> 
