@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1427 DEGREES</title>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+    <style>
+        table {
+            padding: 0px;
+        }
+
+        button {
+            width: 150px;
+            height: 50px;
+            background: rgb(255, 246, 236);
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20pt;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            margin: 25px 20px;
+        }
+
+        .button {
+            border-radius: 10%;
+        }
+
+        button:hover {
+            background-color: rgb(252, 235, 216)
+        }
+
+        .title {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 40pt;
+            color: black;
+            margin: 70px 0px 35px 10px;
+            text-align: center;
+        }
+
+        .sub {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 30px;
+            margin: 30px 100px 20px 0px;
+            text-align: center;
+        }
+
+        .paragraph {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20px;
+            text-align: center;
+            margin: 35px 0px 0px 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">RUTH BADER GINSBURG</div>
+    <table style="width:45%" align="center">
+
+        <tr>
+            <th><img src="https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/4/95/49544f28-bfe1-54fb-8e45-3c5d4fc9d625/5b27c9ef0c630.image.jpg" alt="Jeannette Rankin" width="160" height="200" style="margin: 0px 30px 0px 30px;"></th>
+            <td class="sub" style="margin: 0px 0px 0px 30px;"><i>“Women will only have true equality when men share with them the responsibility of bringing up the next generation.”</i></td>
+        </tr>
+    </table>
+    <p class="paragraph">
+        Ruth Bader Ginsburg, born in New York, graduated first in her class at Columbia Law school. Post-graduation, she <br>
+        faced difficulty when searching for a job due to discrimination and went to Sweden to join the Columbia Project on <br>
+        International Civil Procedures, her other passion. When she returned from Sweden, she became a professor at Rutgers University <br>
+        Law School prior to transferring to Columbia University. She led the fight against gender discrimination with the Women’s Rights <br>
+        Project of the American Civil Liberties, arguing 6 landmark cases before the Supreme Court. She served on the U.S. Court of <br>
+        Appeals per Jimmy Carter’s request prior to being appointed to Supreme Court by Bill Clinton in 1993. There, she continued to <br>
+        fight for women’s rights while serving as justice. She is still is one of the most avid questioners on the bench today.
+    </p>
+    <p align="center"><button type="button" class="button">back</button></p>
+
+</body>
+</html> 
