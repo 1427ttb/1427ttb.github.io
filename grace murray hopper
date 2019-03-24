@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1427 DEGREES</title>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+    <style>
+        table {
+            padding: 0px;
+        }
+
+        button {
+            width: 150px;
+            height: 50px;
+            background: rgb(255, 246, 236);
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20pt;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            margin: 25px 20px;
+        }
+
+        .button {
+            border-radius: 10%;
+        }
+
+        button:hover {
+            background-color: rgb(252, 235, 216)
+        }
+
+        .title {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 40pt;
+            color: black;
+            margin: 70px 0px 35px 10px;
+            text-align: center;
+        }
+
+        .sub {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 30px;
+            margin: 30px 100px 20px 0px;
+            text-align: center;
+        }
+
+        .paragraph {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20px;
+            text-align: center;
+            margin: 35px 0px 0px 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">GRACE MURRAY HOPPER</div>
+    <table style="width:45%" align="center">
+
+        <tr>
+            <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg/1200px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg" alt="Mary T. Barra" width="400" height="500" style="margin: 0px 30px 0px 30px;"></th>
+            <td class="sub" style="margin: 0px 0px 0px 30px;"><i>“The most dangerous phrase in the language is ‘we've always done it this way.”</i></td>
+        </tr>
+    </table>
+    <p class="paragraph">
+
+
+
+            Grace Murray Hopper earned a Ph.D. in mathematics from Yale University and was a professor at Vassar <br>
+            College. She joined the Navy Reserves during WWII and worked on the Harvard Mark I team, was a pioneer <br>
+            in developing computer technology, UNIVAC I, the first commercial electronic computer and the naval applications <br>
+            for COBOL. She received the National Medal of Technology in 1991, and in 2016 she won the Presidential Medal of <br>
+            Freedom by Obama. Credited the idea that computer code could be written and read like language. <br>
+
+
+
+        
+    </p>
+    <p align="center"><button type="button" class="button">back</button></p>
+
+</body>
+</html>
