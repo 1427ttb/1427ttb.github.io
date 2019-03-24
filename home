@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1427</title>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+<style>
+    table {
+  padding: 0px;
+}
+
+button {
+width:250px;
+    height:250px;
+    background:rgb(255, 246, 236);
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:20pt;
+    text-align: center;
+ 	cursor: pointer;
+  	outline: none;
+      
+  margin: 10px 20px;
+    }
+    
+    .button {border-radius: 10%;}
+button:hover {background-color: rgb(252, 235, 216)}
+.title{
+    font-family: 'PT Sans Narrow', sans-serif;
+  font-size:70pt;
+  color: black;
+  margin: 100px 0px 0px 0px;
+  }
+.sub{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size:50;
+    margin: 20px 0px 20px 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="title" style="text-align:center;">1427 DEGREES</div>
+<div class="sub" style="font-size:20pt; text-align: center;">they broke, we melt</div>
+<table style="width:50%" align="center">
+        
+        <tr>   
+            
+          <th href="file:///C:/Users/jenni/OneDrive/Documents/politicians.html"><button type="button" class="button" >politicians</button></th>
+          <!--<td class="title" style="text-align:center;">1427</td>-->
+            <th><button type="button" class="button">computer science</button></th>
+            <th><button type="button" class="button">leadership</button></th>
+         <!--  <td class="sub" style="font-size:20pt; text-align: center;">they broke, we melt</td>-->
+            <th><button type="button" class="button">aviation</button></th>
+              
+        </tr>
+      </table>
+
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "You will die";
+}
+</script>
+
+
+</body>
+</html> 
