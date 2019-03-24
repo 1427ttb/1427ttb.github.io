@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1427 DEGREES</title>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+    <style>
+        table {
+            padding: 0px;
+        }
+
+        button {
+            width: 150px;
+            height: 50px;
+            background: rgb(255, 246, 236);
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20pt;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            margin: 25px 20px;
+        }
+
+        .button {
+            border-radius: 10%;
+        }
+
+        button:hover {
+            background-color: rgb(252, 235, 216)
+        }
+
+        .title {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 40pt;
+            color: black;
+            margin: 70px 0px 35px 10px;
+            text-align: center;
+        }
+
+        .sub {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 30px;
+            margin: 30px 100px 20px 0px;
+            text-align: center;
+        }
+
+        .paragraph {
+            font-family: 'PT Sans Narrow', sans-serif;
+            font-size: 20px;
+            text-align: center;
+            margin: 35px 0px 0px 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">BESSIE COLEMAN</div>
+    <table style="width:45%" align="center">
+
+        <tr>
+            <th><img src="https://www.biography.com/.image/t_share/MTE1ODA0OTcxMjUyMDI0ODQ1/bessie-coleman-36928-1-402.jpg " alt="Bessie Coleman" width="400" height="400" style="margin: 0px 30px 0px 30px;"></th>
+            <td class="sub" style="margin: 0px 0px 0px 30px;"><i>“I decided blacks should not have to experience the difficulties I had faced, so I decided to open a flying school and teach other black women to fly.”</i></td>
+        </tr>
+    </table>
+    <p class="paragraph">
+        Bessie Coleman turned down by U.S. flight schools due to her colored skin, hence, she went to France in 1921 to earn the first <br>
+        International Pilot’s License issued to an African American woman. She was called “Queen Bess” by aviation enthusiasts, flew at <br>
+        exhibitions and wanted more colored people of both sexes to fly. She tried to open a flight school but passed away in an airshow.
+    </p>
+    <p align="center"><button type="button" class="button">back</button></p>
+
+</body>
+</html> 
